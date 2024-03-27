@@ -1,0 +1,13 @@
+/* body {
+  --themeColor: #c72e0f;
+} */
+
+.flex {
+  display: flex;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+
